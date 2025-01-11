@@ -12,8 +12,8 @@ I recently built a project named Modeling Future Job Market Trends Using Univers
 AI-powered solutions and cloud computing projects
 Feel free to check out my repositories, connect with me, and let's create something amazing! 🚀 <br>
 Send Ideas to rahulujv@buffalo.edu
-<h3>When I code, I rely on</h3>
-<!-- <p>
+<!-- <h3>When I code, I rely on</h3>
+ <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
