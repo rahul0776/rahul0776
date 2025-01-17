@@ -4,7 +4,7 @@ Hi, I'm Rahul Lotlikar, a Software Engineer and Master's student in Computer Sci
 🚀 What I Do:<br>
 Craft high-performance systems with tools like AWS, Node.js, and advanced ML algorithms
 Develop data-driven dashboards and AI-powered systems<br>
-🌱 What I'm Learning:<br>
+🌱 What I'm Learning: <br>
 Transformer models for NLP and reinforcement learning
 Advanced GANs, object detection, and edge AI deployment<br>
 I recently built a project named Modeling Future Job Market Trends Using University Enrolment, Industry Data and other factors. Check it out:  https://jobnomix.streamlit.app/ <br><br>
