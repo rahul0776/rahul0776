@@ -1,7 +1,7 @@
 Welcome to My GitHub Profile! 👋<br>
 Hi, I'm Rahul Lotlikar, a Software Engineer and Master's student in Computer Science at the University at Buffalo. With 2+ years of experience in backend development, cloud computing, and data analytics, I love building scalable solutions and tackling complex challenges.
 
-🚀 What I Do:<br>
+🚀 What I Do: <br>
 Craft high-performance systems with tools like AWS, Node.js, and advanced ML algorithms
 Develop data-driven dashboards and AI-powered systems<br>
 🌱 What I'm Learning: <br>
