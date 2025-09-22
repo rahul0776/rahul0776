@@ -7,7 +7,7 @@ Develop data-driven dashboards and AI-powered systems<br>
 🌱 What I'm Learning: <br>
 Transformer models for NLP and reinforcement learning
 Advanced GANs, object detection, and edge AI deployment<br>
-I recently built a project named Modeling Future Job Market Trends Using University Enrolment, Industry Data and other factors. Check it out:  https://jobnomix.streamlit.app/ <br><br>
+I recently built a project named LiveOn: which Backs Up Your Facebook. Then Bring It to Life. Check it out: https://minedco.com/ <br><br>
 👯 Looking to Collaborate On:<br>
 AI-powered solutions and cloud computing projects
 Feel free to check out my repositories, connect with me, and let's create something amazing! 🚀 <br>
